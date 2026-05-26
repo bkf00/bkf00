@@ -1,7 +1,4 @@
 <div align="center">
-
-# Bogdan Cojocaru
-
 ### Software developer with 3 years in embedded systems, now building clean APIs, practical automation, and reliable low-level logic.
 
 [![GitHub followers](https://img.shields.io/github/followers/bkf00?style=for-the-badge&logo=github&label=Follow)](https://github.com/bkf00)
