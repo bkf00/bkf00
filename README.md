@@ -6,6 +6,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/bkf00?style=for-the-badge&logo=github&label=Follow)](https://github.com/bkf00)
 [![Profile views](https://komarev.com/ghpvc/?username=bkf00&style=for-the-badge&color=0e75b6)](https://github.com/bkf00)
+[![TaskWizard last commit](https://img.shields.io/github/last-commit/bkf00/TaskWizard?style=for-the-badge&label=TaskWizard)](https://github.com/bkf00/TaskWizard)
+[![PolicyInsurance last commit](https://img.shields.io/github/last-commit/bkf00/PolicyInsurance?style=for-the-badge&label=PolicyInsurance)](https://github.com/bkf00/PolicyInsurance)
 
 </div>
 
@@ -44,6 +46,33 @@ Current operating mode: **coder maxxxing** - clean commits, sharper abstractions
 | [CarInsurance.Api](https://github.com/bkf00/CarInsurance.Api) | .NET 8 Web API with EF Core, SQLite, Swagger, insurance validity checks, and controller/service design direction. |
 | [MiniBank](https://github.com/bkf00/MiniBank) | Console banking simulation focused on OOP, polymorphism, interfaces, account rules, and clean beginner-friendly .NET structure. |
 | [Parking-Sensor](https://github.com/bkf00/Parking-Sensor) | Microcontroller/sensor project territory: hardware logic, proximity thinking, and practical electronics curiosity. |
+
+---
+
+## Live dashboard
+
+<details>
+<summary><strong>Open live repo signals</strong></summary>
+
+<br>
+
+| Repository | Live signals |
+| --- | --- |
+| [TaskWizard](https://github.com/bkf00/TaskWizard) | [![Last commit](https://img.shields.io/github/last-commit/bkf00/TaskWizard?style=flat-square)](https://github.com/bkf00/TaskWizard/commits/main) [![Repo size](https://img.shields.io/github/repo-size/bkf00/TaskWizard?style=flat-square)](https://github.com/bkf00/TaskWizard) [![Top language](https://img.shields.io/github/languages/top/bkf00/TaskWizard?style=flat-square)](https://github.com/bkf00/TaskWizard) |
+| [PolicyInsurance](https://github.com/bkf00/PolicyInsurance) | [![Last commit](https://img.shields.io/github/last-commit/bkf00/PolicyInsurance?style=flat-square)](https://github.com/bkf00/PolicyInsurance/commits/main) [![Repo size](https://img.shields.io/github/repo-size/bkf00/PolicyInsurance?style=flat-square)](https://github.com/bkf00/PolicyInsurance) [![Top language](https://img.shields.io/github/languages/top/bkf00/PolicyInsurance?style=flat-square)](https://github.com/bkf00/PolicyInsurance) |
+| [CarInsurance.Api](https://github.com/bkf00/CarInsurance.Api) | [![Last commit](https://img.shields.io/github/last-commit/bkf00/CarInsurance.Api?style=flat-square)](https://github.com/bkf00/CarInsurance.Api/commits/master) [![Repo size](https://img.shields.io/github/repo-size/bkf00/CarInsurance.Api?style=flat-square)](https://github.com/bkf00/CarInsurance.Api) [![Top language](https://img.shields.io/github/languages/top/bkf00/CarInsurance.Api?style=flat-square)](https://github.com/bkf00/CarInsurance.Api) |
+| [MiniBank](https://github.com/bkf00/MiniBank) | [![Last commit](https://img.shields.io/github/last-commit/bkf00/MiniBank?style=flat-square)](https://github.com/bkf00/MiniBank/commits/master) [![Repo size](https://img.shields.io/github/repo-size/bkf00/MiniBank?style=flat-square)](https://github.com/bkf00/MiniBank) [![Top language](https://img.shields.io/github/languages/top/bkf00/MiniBank?style=flat-square)](https://github.com/bkf00/MiniBank) |
+
+</details>
+
+<details>
+<summary><strong>Open the embedded toolkit</strong></summary>
+
+<br>
+
+`C` `low-level software` `registers` `communication protocols` `CANoe` `unit testing` `integration testing` `YAML` `Markdown` `oscilloscopes` `thermal cameras` `electronics debugging`
+
+</details>
 
 ---
 
