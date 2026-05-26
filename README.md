@@ -2,7 +2,7 @@
 
 # Bogdan Cojocaru
 
-### Backend-focused developer building clean APIs, practical automation, and the occasional microcontroller-powered side quest.
+### Software developer with 3 years in embedded systems, now building clean APIs, practical automation, and reliable low-level logic.
 
 [![GitHub followers](https://img.shields.io/github/followers/bkf00?style=for-the-badge&logo=github&label=Follow)](https://github.com/bkf00)
 [![Profile views](https://komarev.com/ghpvc/?username=bkf00&style=for-the-badge&color=0e75b6)](https://github.com/bkf00)
@@ -13,9 +13,11 @@
 
 ## About me
 
-Hi, I'm **Bogdan** - a developer who likes turning messy real-world workflows into structured, testable software.
+Hi, I'm **Bogdan** - a developer who likes turning messy real-world problems into structured, testable software.
 
-I enjoy building backend systems with clear architecture, readable domain models, and APIs that do what they say on the tin. My recent work leans into **.NET**, **ASP.NET Core**, **REST APIs**, **clean architecture**, **domain modeling**, **testing**, and automation around Microsoft 365 workflows.
+I spent **3 years in embedded software development**, working close to the hardware with **C**, low-level logic, registers, communication protocols, unit testing, integration testing, YAML/Markdown documentation, CANoe, and hands-on electronics tools like oscilloscopes and thermal cameras.
+
+These days I also build backend systems with clear architecture, readable domain models, and APIs that do what they say on the tin. My recent work leans into **.NET**, **ASP.NET Core**, **REST APIs**, **clean architecture**, **domain modeling**, **testing**, and automation around Microsoft 365 workflows.
 
 Current operating mode: **coder maxxxing** - clean commits, sharper abstractions, fewer "it works on my machine" moments.
 
@@ -26,9 +28,10 @@ Current operating mode: **coder maxxxing** - clean commits, sharper abstractions
 ## What I build
 
 - **Backend APIs** with thin controllers, service layers, validation, persistence, and testable business logic.
+- **Embedded software** in C, close to registers, signals, protocols, diagnostics, and hardware behavior.
 - **Workflow automation tools** that keep humans in control while AI handles the repetitive first draft.
 - **Domain-driven training projects** for insurance, banking, task management, and operational systems.
-- **Embedded / microcontroller experiments** involving sensors, parking assistance, soil moisture monitoring, and hardware-adjacent problem solving.
+- **Hardware-aware debugging** using lab tools, measurements, electronics fundamentals, and evidence instead of guesses.
 
 ---
 
@@ -51,10 +54,26 @@ Current operating mode: **coder maxxxing** - clean commits, sharper abstractions
 </p>
 
 **Backend:** C#, .NET, ASP.NET Core, REST APIs, EF Core, SQLite, PostgreSQL  
+**Embedded:** C, low-level software, registers, microcontrollers, diagnostics, protocol-level thinking  
+**Testing:** unit testing, integration testing, test strategy, reproducible debugging  
+**Tools / Formats:** CANoe, YAML, Markdown, Git, GitHub, Visual Studio, VS Code  
+**Lab / Electronics:** oscilloscopes, thermal cameras, sensors, signal analysis, hardware bring-up  
 **Frontend / App:** TypeScript, JavaScript, Next.js  
 **Architecture:** Clean Architecture, domain modeling, DTOs, validation, service layers, audit trails  
-**Quality:** unit tests, integration tests, readable commits, documentation-first thinking  
-**Hardware curiosity:** Arduino-style projects, sensors, embedded experiments
+**Quality:** readable commits, documentation-first thinking, practical validation before polish
+
+---
+
+## Embedded background
+
+Before the API and automation work, I spent 3 years in embedded software development, where the feedback loop is beautifully unforgiving: one bit wrong, one register misunderstood, one timing assumption too optimistic, and the hardware politely refuses to cooperate.
+
+That experience shaped how I write software today:
+
+- I think in states, constraints, signals, and failure modes.
+- I care about tests because guessing near hardware gets expensive fast.
+- I document decisions because future debugging deserves breadcrumbs.
+- I like clean abstractions, but I still want to know what is happening underneath.
 
 ---
 
@@ -73,6 +92,7 @@ I like systems that are:
 
 | Focus | Signal |
 | --- | --- |
+| Embedded software | 3 years with C, low-level logic, registers, CANoe, protocols, hardware debugging |
 | Backend engineering | .NET APIs, service layers, DTOs, validation, EF Core |
 | Architecture | Clean boundaries, readable domain models, audit-friendly workflows |
 | Product thinking | Tools that reduce manual work without removing human approval |
@@ -83,7 +103,9 @@ I like systems that are:
 ## Currently sharpening
 
 - production-grade backend architecture;
+- embedded-grade reliability in application software;
 - stronger automated testing habits;
+- communication protocols, diagnostics, and robust integration flows;
 - secure AI-assisted workflows;
 - cleaner documentation and project storytelling;
 - building projects that look simple because the complexity was handled properly.
