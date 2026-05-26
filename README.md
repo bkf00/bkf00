@@ -69,14 +69,14 @@ I like systems that are:
 
 ---
 
-## GitHub stats
+## GitHub snapshot
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bkf00&show_icons=true&theme=tokyonight&hide_border=true" alt="Bogdan's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkf00&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
+| Focus | Signal |
+| --- | --- |
+| Backend engineering | .NET APIs, service layers, DTOs, validation, EF Core |
+| Architecture | Clean boundaries, readable domain models, audit-friendly workflows |
+| Product thinking | Tools that reduce manual work without removing human approval |
+| Builder energy | From business APIs to sensor projects, always shipping and sharpening |
 
 ---
 
